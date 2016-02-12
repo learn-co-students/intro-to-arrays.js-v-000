@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" errors="0" failures="0" time="0" timestamp="2016-02-12T15:29:29">
+		<testcase classname="#accessElementFromArray" name="should returns the third item in the array" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
