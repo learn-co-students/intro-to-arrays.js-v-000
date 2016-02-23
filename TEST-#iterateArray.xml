@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" errors="0" failures="0" time="0.001" timestamp="2016-02-23T12:43:07">
+		<testcase classname="#iterateArray" name="should iterate over an original array to create a new array with updated elements from the original array&amp;apos;" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
