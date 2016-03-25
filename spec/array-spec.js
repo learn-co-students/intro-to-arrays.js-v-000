@@ -42,6 +42,3 @@ describe('#iterateArray', function(){
   });
 
 });
-
-
-
