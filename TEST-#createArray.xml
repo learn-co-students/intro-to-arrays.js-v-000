@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" errors="0" failures="0" time="0.003" timestamp="2016-02-12T15:29:29">
+		<testcase classname="#createArray" name="should return an array of strings" time="0.002">
+		</testcase>
+	</testsuite>
+</testsuites>
+
