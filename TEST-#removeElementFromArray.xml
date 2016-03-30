@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" errors="0" failures="0" time="0" timestamp="2016-02-23T12:43:07">
+		<testcase classname="#removeElementFromArray" name="should remove the third and fourth item from the array and add &amp;apos;Roast Chicken&amp;apos;" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
