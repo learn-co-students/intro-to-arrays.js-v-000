@@ -23,7 +23,7 @@ describe('#accessElementFromArray', function(){
 
 describe('#replaceElementInArray', function(){
   it("should replace the second item in array with 'Carter' and return that item", function(){
-      expect(replaceElementInArray(["Joe", "Tim", "Stephen", "Sarah", "Stephanie"])).toEqual("Carter")
+      expect(replaceElementInArray(["Joe", "Tim", "Stephen", "Sarah", "Stephanie"])).toEqual(["Joe", "Carter", "Stephen", "Sarah", "Stephanie"])
   });
 
 });
