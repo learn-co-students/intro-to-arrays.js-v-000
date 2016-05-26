@@ -9,7 +9,7 @@ describe('#createArray', function(){
 
 describe('#addElementToArray', function(){
   it("should return an array of Christmas movies", function(){
-      expect(addElementToArray(["Home Alone", "Love Actually", "Elf"])).toEqual(['Home Alone', 'Love Actually', 'Elf', 'A Christmas Story'])
+      expect(addElementToArray([])).toEqual(['Home Alone', 'Love Actually', 'Elf', 'A Christmas Story'])
   });
 
 });
