@@ -24,9 +24,9 @@ function removeElementFromArray(dishes) {
   return dishes;
 }
 
-function iterateArray(numbers) {
+function iterateArray(nmbers) {
 var newNums = new Array();
- numbers.forEach(function(letter){
+ nmbers.forEach(function(letter){
   newNums.push(letter + 5)
  });
   return newNums;
