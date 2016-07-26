@@ -29,10 +29,10 @@ function removeElementFromArray(array) {
 }
 
 function iterateArray(numbers) {
-  var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-  var newNums = new Array();
-  numbers.forEach(function(numbers)) {
-    newNums.push([numbers + 5]);
-    return newNums;
+  var newNums = [];
+  numbers.forEach(function(numbers) {
+    newNums.push(numbers + 5);
   });
+
+  return newNums;
 }
