@@ -20,15 +20,14 @@ function replaceElementInArray(array) {
 }
 
 function removeElementFromArray(array) {
-  var removedItems = array.splice(2, 2, "Roast Chicken");
+  array.splice(2, 2, "Roast Chicken");
   return array;
 }
 
 function iterateArray(array) {
   var newNums = [];
   array.forEach(function(number) {
-    var newNum = number + 5;
-    newNums.push(newNum);
+    newNums.push(number + 5);
   });
   return newNums;
 }
